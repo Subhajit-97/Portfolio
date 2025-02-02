@@ -62,3 +62,12 @@
     background-color: #777777;
 }
 
+/* achievements  */
+.achievement-img {
+    width: 350px; /* Set a fixed width */
+    height: 220px; /* Set a fixed height */
+    object-fit: cover; /* Ensures images cover the box while keeping aspect ratio */
+    border-radius: 2px; /* Optional: Adds rounded corners */
+    display: block;
+    margin: 0 auto; /* Centers images inside the slider */
+}
