@@ -64,7 +64,7 @@
 
 /* achievements  */
 .achievement-img {
-    width: 300px; /* Set a fixed width */
+    width: 310px; /* Set a fixed width */
     height: 220px; /* Set a fixed height */
     object-fit:fill; /* Ensures images cover the box while keeping aspect ratio */
     border-radius: 2px; /* Optional: Adds rounded corners */
